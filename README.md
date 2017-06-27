@@ -1,6 +1,10 @@
 # Drupal 8.x lessons
 
-A basic structure for teaching Drupal 8.x.
+[Edit](https://github.com/theodorosploumis/drupal-lessons/edit/master/README.md)
+
+A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/should be taugh independently. 
+
+## Table of Contents
 
 ## Lesson bundles
 ### What is Drupal
