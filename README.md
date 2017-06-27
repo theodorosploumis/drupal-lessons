@@ -190,7 +190,7 @@ A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/shoul
 - [LevelUpTuts - Drupal 8 Basics](https://www.youtube.com/watch?v=J9U1DQYbFjA&list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI)
 - https://www.ostraining.com/blog/drupal/200-drupal-8-videos
 - Learn Drupal 8 for Beginners, Step by Step: [#1](https://www.youtube.com/watch?v=BXvaKPm1x-E), [#2](https://www.youtube.com/watch?v=oG93vZ0s5rk), [#3](https://www.youtube.com/watch?v=g5KTrznNJzo)
-- redcrackle.com/blog/drupal-8/free-tutorials-list
+- [redcrackle.com/blog/drupal-8/free-tutorials-list](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
 
 ## Homework - Tasks
 - Create a simple website with 5 pages and 4 custom blocks
