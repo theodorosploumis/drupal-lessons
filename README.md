@@ -2,11 +2,36 @@
 
 [Edit](https://github.com/theodorosploumis/drupal-lessons/edit/master/README.md)
 
-A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/should be taugh independently. 
+A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/should be taught independently.
 
 ## Table of Contents
 
+* [Drupal 8.x lessons](#drupal-8x-lessons)
+    * [Table of Contents](#table-of-contents)
+    * [Lesson bundles](#lesson-bundles)
+        * [What is Drupal](#what-is-drupal)
+        * [Why Drupal - the Drupal way](#why-drupal---the-drupal-way)
+        * [Drupal terminology](#drupal-terminology)
+        * [Extend Drupal with modules](#extend-drupal-with-modules)
+        * [Drupal Entities](#drupal-entities)
+        * [Drupal Blocks](#drupal-blocks)
+        * [The User entity](#the-user-entity)
+        * [Drupal Views](#drupal-views)
+        * [Drupal REST API](#drupal-rest-api)
+        * [Form submissions](#form-submissions)
+        * [Theming](#theming)
+        * [Development for Drupal](#development-for-drupal)
+        * [More topics](#more-topics)
+        * [Drupal.org](#drupalorg)
+        * [Best practices and tips](#best-practices-and-tips)
+    * [Learning - Video Resources](#learning---video-resources)
+    * [Homework - Tasks](#homework---tasks)
+    * [License](#license)
+
+---
+
 ## Lesson bundles
+
 ### What is Drupal
 - Simple explanation
 - Dries Buyaert, the Drupal “leader”
