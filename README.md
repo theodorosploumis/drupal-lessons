@@ -158,13 +158,13 @@ A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/shoul
 - Search more, develop less
 
 ## Learning - Video Resources
-- drupal.org/documentation
-- drupalize.me
-- buildamodule.com
-- knpuniversity.com
+- [drupal.org/documentation](https://www.drupal.org/documentation)
+- [drupalize.me](https://drupalize.me)
+- [buildamodule.com](https://buildamodule.com)
+- [knpuniversity.com](https://knpuniversity.com)
 - [LevelUpTuts - Drupal 8 Basics](https://www.youtube.com/watch?v=J9U1DQYbFjA&list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI)
 - https://www.ostraining.com/blog/drupal/200-drupal-8-videos
-- Drupal 8 Tutorial for Beginners || Learn Drupal 8 Step by Step [#1](https://www.youtube.com/watch?v=BXvaKPm1x-E), [#2](https://www.youtube.com/watch?v=oG93vZ0s5rk), [#3](https://www.youtube.com/watch?v=g5KTrznNJzo)
+- Learn Drupal 8 for Beginners, Step by Step: [#1](https://www.youtube.com/watch?v=BXvaKPm1x-E), [#2](https://www.youtube.com/watch?v=oG93vZ0s5rk), [#3](https://www.youtube.com/watch?v=g5KTrznNJzo)
 - redcrackle.com/blog/drupal-8/free-tutorials-list
 
 ## Homework - Tasks
@@ -172,5 +172,7 @@ A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/shoul
 - Create an image gallery website
 - Create a multiuser blog
 - Drupal as a Backend content hub (BaaS)
+
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
