@@ -6,7 +6,6 @@ A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/shoul
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Lesson bundles](#lesson-bundles)
     - [What is Drupal](#what-is-drupal)
     - [Why Drupal - the Drupal way](#why-drupal---the-drupal-way)
