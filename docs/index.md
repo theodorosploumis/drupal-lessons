@@ -24,6 +24,7 @@ A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/shoul
     - [Best practices and tips](#best-practices-and-tips)
 - [Learning - Video Resources](#learning---video-resources)
 - [Homework - Tasks](#homework---tasks)
+- [Useful resources](#useful-resources)
 - [License](#license)
 
 ---
@@ -195,6 +196,9 @@ A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/shoul
 - Create an image gallery website
 - Create a multiuser blog
 - Drupal as a Backend content hub (BaaS)
+
+## Useful Resources
+ - [Sprint Participant Role Task Cards](https://www.drupal.org/sprint-task-cards)
 
 ## License
 
