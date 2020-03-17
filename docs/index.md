@@ -183,6 +183,8 @@ A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/shoul
 
 ## Learning - Video Resources
 - [drupal.org/documentation](https://www.drupal.org/documentation)
+- [Drupal 8.x User Guide](https://www.drupal.org/project/user_guide)
+- [Drupal 8.x User Guide downloads & translations](https://www.drupal.org/node/3076366)
 - [drupalize.me](https://drupalize.me)
 - [buildamodule.com](https://buildamodule.com)
 - [knpuniversity.com](https://knpuniversity.com)
