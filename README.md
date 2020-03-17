@@ -1,8 +1,6 @@
 # Drupal 8.x lessons
 
-[Edit](edit/master/README.md)
-
-A basic structure for teaching Drupal 8.x with lesson bundles. Bundles can/should be taught independently.
+A basic structure for teaching (or learning) Drupal 8.x with lesson bundles. Bundles can/should be taught independently.
 
 ## Table of Contents
 
