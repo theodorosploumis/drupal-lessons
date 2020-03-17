@@ -135,7 +135,7 @@ A basic structure for teaching (or learning) Drupal 8.x with lesson bundles. Bun
 - Debug Drupal
 - Testing Drupal
 - Working with the database
-- Update/upgrade Drupal
+- Update/upgrade Drupal core & modules
 - Backup Drupal
 - Applying and creating patches
 - Using simplytest.me
