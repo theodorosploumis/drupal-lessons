@@ -1,6 +1,6 @@
-# Drupal 8.x lessons
+# Drupal 8.x/9.x lessons
 
-A basic structure for teaching (or learning) Drupal 8.x with lesson bundles. Bundles can/should be taught independently.
+A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles. Bundles can/should be taught independently.
 
 ## Table of Contents
 
