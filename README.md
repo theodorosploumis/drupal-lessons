@@ -200,7 +200,8 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - Drupal as a Backend content hub (BaaS)
 
 ## Useful Resources
- - [Sprint Participant Role Task Cards](https://www.drupal.org/sprint-task-cards)
+- [Drupal Glyphs - Illustrations suitable for education materials](https://github.com/theodorosploumis/drupal-glyphs)
+- [Sprint Participant Role Task Cards](https://www.drupal.org/sprint-task-cards)
 
 ## License
 
