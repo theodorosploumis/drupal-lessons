@@ -192,6 +192,7 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - Learn Drupal 8 for Beginners, Step by Step: [#1](https://www.youtube.com/watch?v=BXvaKPm1x-E), [#2](https://www.youtube.com/watch?v=oG93vZ0s5rk), [#3](https://www.youtube.com/watch?v=g5KTrznNJzo)
 - [redcrackle.com/blog/drupal-8/free-tutorials-list](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
 - [Drupal 9 Module Development - Packt Book](https://www.packtpub.com/product/drupal-9-module-development-third-edition/9781800204621)
+- [Getting Started with Drupal Workshop, Drupal.org](https://www.drupal.org/project/getting_started_with_drupal)
 
 ## Homework - Tasks
 - Create a simple website with 5 pages and 4 custom blocks
