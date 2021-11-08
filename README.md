@@ -31,7 +31,7 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 
 ### What is Drupal
 - Simple explanation
-- Dries Buyaert, the Drupal “leader”
+- Dries Buyaert, the Drupal "leader"
 - Who uses Drupal
 - (System) Requirements
 - Drupal core
@@ -67,8 +67,8 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - What are modules
 - Where to find modules
 - How to create modules
-- Publish modules
 - Module issues etc
+- Publish modules
 
 ### Drupal Entities
 - Types of entities
@@ -97,7 +97,7 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - Advanced Views
 
 ### Drupal REST API
-- Core REST API
+- Core JSON API (REST)
 - Create resources
 - REST authentication
 - Data Serialization
@@ -123,6 +123,7 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - BEM, SMACSS and other CSS methodologies within Drupal
 - Attach CSS and JS (internal, external)
 - Working with JS
+- Useful modules for theming
 
 ### Development for Drupal
 - Installing Drupal
@@ -139,6 +140,7 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - Backup Drupal
 - Applying and creating patches
 - Using simplytest.me
+- Useful modules for development
 
 ### More topics
 - Migration to Drupal
@@ -150,7 +152,6 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - Symfony services
 - Menus
 - Text filters and CKEditor
-- Quick edit
 - Contextual links
 
 ### Drupal.org
@@ -198,7 +199,7 @@ A basic structure for teaching (or learning) Drupal 8.x/9.x with lesson bundles.
 - Create a simple website with 5 pages and 4 custom blocks
 - Create an image gallery website
 - Create a multiuser blog
-- Drupal as a Backend content hub (BaaS)
+- Drupal as a Backend CMS (BaaS)
 
 ## Useful Resources
 - [Drupal Glyphs - Illustrations suitable for education materials](https://github.com/theodorosploumis/drupal-glyphs)
